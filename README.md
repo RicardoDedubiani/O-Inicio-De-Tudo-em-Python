@@ -1,2 +1,3 @@
-# primeiroprogramaemPython.py
-Primeiro programa em Python. Imprimindo 'Olá Mundo Python!'
+# OInicioDeTudo.PY
+
+Nesse repositório serão inseridas aulas de Python com a finalidade de identificar o nível de programador Python.
